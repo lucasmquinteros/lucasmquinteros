@@ -35,7 +35,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=white)
+
 
 ---
 
@@ -44,7 +44,7 @@
 - 🔍 **SQLAlchemy** para ORM en Python
 - 📦 Arquitectura de proyectos backend limpia y escalable
 - 📐 Patrones de diseño y buenas prácticas de desarrollo
-- 🔄 Trabajo colaborativo con Git, GitHub y metodologías ágiles como **Scrum**
+- 🪛 Frameworks como **FASTAPI** y **EXPRESS**
 
 ---
 
@@ -67,6 +67,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lucasmquinteros)
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <p align="center">
   ¡Gracias por visitar mi perfil! 🙌
