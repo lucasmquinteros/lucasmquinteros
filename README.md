@@ -1,74 +1,63 @@
-<h1 align="center">¡Hola! 👋 Soy Lucas Gabriel Martini Quinteros</h1>
-
-<p align="center">
-  💻 Estudiante de programación y apasionado por el backend y las bases de datos.<br>
-  📍 San Nicolás, Buenos Aires - Argentina 🇦🇷
-</p>
+# Lucas Gabriel Martini Quinteros
+Backend Developer • Systems Engineering Student • Data & Automation Enthusiast  
+San Nicolás, Buenos Aires – Argentina
 
 ---
 
-### 🧑‍💻 Sobre mí
-
-- 🎓 Estudiante de la Tecnicatura Universitaria en Programación y de Ingeniería en Sistemas.
-- ⚙️ Me encanta diseñar sistemas funcionales y eficientes, especialmente en el backend.
-- 📊 Disfruto mucho trabajar con bases de datos, estructurar modelos y automatizar procesos.
-- 📚 Siempre aprendiendo nuevas herramientas y enfoques.
-- 🧩 Con conocimientos en metodologías ágiles, especialmente **Scrum**.
+## Sobre mí
+Estudiante de Ingeniería en Sistemas y Técnico Universitario en Programación.  
+Enfocado en desarrollo Backend, arquitectura de software y manejo de bases de datos.  
+Interesado en construir soluciones escalables utilizando .NET, Node.js, Python y SQL.  
+Actualmente buscando mi primera experiencia profesional en el sector IT.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+## Tecnologías
 
-#### Lenguajes & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+### Backend
+- C# / .NET  
+- Python (FastAPI, Pandas)  
+- Node.js / Express  
+- SQL (Stored Procedures, Normalización)  
 
-#### Bases de datos
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000000?style=flat&logo=alchemy&logoColor=white)
+### Frontend
+- React  
+- HTML5 / CSS3  
+- Tailwind CSS  
 
-#### Otros
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+### Bases de datos
+- SQL Server  
+- PostgreSQL  
+- SQLite  
+- Power BI  
 
+### Herramientas y DevOps
+- Git / GitHub  
+- Docker / Docker Compose  
+- Linux  
+- Metodologías Ágiles (Scrum / XP)
 
----
+## Proyectos destacados
 
-### 🧪 Actualmente aprendiendo
+### Data Pipeline & Dashboard (Sector Energético)
+Pipeline ETL en Python (Pandas/NumPy) para limpiar y transformar datasets.  
+Dashboards interactivos en Power BI con métricas clave del sector petrolero.
 
-- 🔍 **SQLAlchemy** para ORM en Python
-- 📦 Arquitectura de proyectos backend limpia y escalable
-- 📐 Patrones de diseño y buenas prácticas de desarrollo
-- 🪛 Frameworks como **FASTAPI** y **EXPRESS**
+### Sistema de Gestión Educativa
+Plataforma fullstack para administración escolar.  
+Backend en Node.js + SQL Server, frontend en React.  
+Incluye autenticación segura, roles y auditoría.
 
----
+### Web Scraping y Data Mining
+Bots en Python utilizando Playwright y BeautifulSoup.  
+Extracción de precios en e-commerce y persistencia en bases SQL.
 
-### 🚀 Proyectos destacados
-
-| Proyecto | Descripción |
-|---------|-------------|
-| 🧵 **Sistema de mercería** | App full stack para gestión de productos, stock, ventas y loggin |
-| 🤖 **Bot de consulta automática** | Bot que se conecta a una base de datos, ejecuta queries y reproduce resultados |
-| 📁 **Documentación universitaria** | Diagramas, modelos y procedimientos almacenados para sistema académico |
-
-> Encontrá todos mis proyectos [en mis repositorios](https://github.com/lucasmquinteros)
-
----
-
-### 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmquinteros)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasmartiniquinteros@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lucasmquinteros)
+Más proyectos disponibles en:  
+https://github.com/lucasmquinteros
 
 ---
 
-<p align="center">
-  ¡Gracias por visitar mi perfil! 🙌
-</p>
+## Contacto
+LinkedIn: https://www.linkedin.com/in/lucas-martini-quinteros-7100b925a/  
+Email: lucasmartiniquinteros@gmail.com  
+GitHub: https://github.com/lucasmquinteros
