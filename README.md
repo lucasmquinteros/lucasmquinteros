@@ -8,7 +8,7 @@ San Nicolás, Buenos Aires – Argentina
 Estudiante de Ingeniería en Sistemas y Técnico Universitario en Programación.  
 Enfocado en desarrollo Backend, arquitectura de software y manejo de bases de datos.  
 Interesado en construir soluciones escalables utilizando .NET, Node.js, Python y SQL.  
-Actualmente buscando mi primera experiencia profesional en el sector IT.
+Actualmente me encuentro trabajando en Informix S&S como backend developer y dba.
 
 ---
 
@@ -16,44 +16,32 @@ Actualmente buscando mi primera experiencia profesional en el sector IT.
 
 ### Backend
 - C# / .NET  
-- Python (FastAPI, Pandas)  
+- __ Python__ (FastAPI, Pandas)  
 - Node.js / Express  
-- SQL (Stored Procedures, Normalización)  
+- SQL (Stored Procedures, Normalización)
+- Php -> laravel 
 
 ### Frontend
 - React  
-- HTML5 / CSS3  
-- Tailwind CSS  
+- Angular  
+- `Tailwind CSS`  
 
 ### Bases de datos
 - SQL Server  
-- PostgreSQL  
+- PostgreSQL
 - SQLite  
 - Power BI  
 
 ### Herramientas y DevOps
-- Git / GitHub  
+- Git / GitHub / Bitbucket
+- Github actions / Bitbucket pipelines
 - Docker / Docker Compose  
 - Linux  
 - Metodologías Ágiles (Scrum / XP)
 
-## Proyectos destacados
-
-### Data Pipeline & Dashboard (Sector Energético)
-Pipeline ETL en Python (Pandas/NumPy) para limpiar y transformar datasets.  
-Dashboards interactivos en Power BI con métricas clave del sector petrolero.
-
-### Sistema de Gestión Educativa
-Plataforma fullstack para administración escolar.  
-Backend en Node.js + SQL Server, frontend en React.  
-Incluye autenticación segura, roles y auditoría.
-
-### Web Scraping y Data Mining
-Bots en Python utilizando Playwright y BeautifulSoup.  
-Extracción de precios en e-commerce y persistencia en bases SQL.
-
-Más proyectos disponibles en:  
-https://github.com/lucasmquinteros
+### AI
+- Arquitecturas basada en agentes
+- Creación y orquestación de múltiples IAs 
 
 ---
 
